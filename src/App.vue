@@ -5,8 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
   <div>
     <a href="https://vite.dev" target="_blank">
-      //
-      {{ $concatenator('hello') }}
+      {{ $concatenator('+27123456789','astrix',3,4) }}
       <img src="/vite.svg" class="logo" alt="Vite logo" />
     </a>
     <a href="https://vuejs.org/" target="_blank">

@@ -1,5 +1,12 @@
-# Vue 3 + TypeScript + Vite
+# ConcateVue 🔤✨ *(In Development)*
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A simple Vue plugin that provides a global method to format strings with either ellipsis (`...`) or asterisk (`*`) concatenation. Useful for masking or shortening strings (e.g., emails, card numbers, etc.) in a consistent way.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+> ⚠️ This plugin is still under development. Expect breaking changes and improvements.
+
+---
+
+## 📦 Installation
+
+```bash
+# Not yet published - for now, clone or copy into your project manually
